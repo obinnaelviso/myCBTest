@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">myCBTest</string>
+    <string name="mycbtest">myCBTest</string>
+
+    <!--Create a test activity-->
+    <string name="createATest">Create a Test</string>
+    <string name="next">next ></string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="test_type">Test Type</string>
+    <string name="test_type_prompt">Select a test type:</string>
+    <string-array name="test_type_list">
+        <item>Objective (ABCD...)</item>
+        <item>True / False</item>
+        <item>Subjective</item>
+        <item>Theory</item>
+        <item>Mixed</item>
+    </string-array>
+
+    <!--Test Setup-->
+    <string name="test_setup">Test Setup Wizard</string>
+    <string name="add_heading">Add Heading</string>
+    <string name="add_question">Add Question</string>
+    <string name="edit_heading">Edit/Remove Heading</string>
+    <string name="edit_question">Edit/Remove Question</string>
+    <string name="remove_heading">Remove Heading</string>
+    <string name="remove_question">Remove Question</string>
+    <string name="preview">Preview:</string>
+    <string name="finish">finish</string>
+
+    <!--Add Heading-->
+    <string name="size">Size</string>
+    <string-array name="font_size">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string name="add">add +</string>
+    <string name="underline"><u>U</u></string>
+
+    <!--New Question-->
+    <string name="question">Question</string>
+
+    <!--Answer Panel-->
+    <string name="answer_panel">Answer Panel</string>
+    <string name="done">done</string>
+    <string name="answer">answer</string>
+    <string name="answer_tick">(*) tick correct answer</string>
+
+    <!--Edit Question-->
+    <string name="edit_question_message">Choose question to edit: </string>
+
+    <!--Edit Heading-->
+    <string name="edit_heading_message">Choose heading to edit: </string>
+</resources>
